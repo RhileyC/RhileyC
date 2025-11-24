@@ -17,5 +17,6 @@
 - **Timezone**: `CST`,
 - **Age**: `15`,
 - **General Location**: `United States`,
-- **Resume**: Soon
+- **Resume**: `Soon.`.
+- **BIO Website**: [Click Me](https://e-z.bio/data)
 ---
