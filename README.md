@@ -17,6 +17,5 @@
 - **Timezone**: `CST`,
 - **Age**: `15`,
 - **General Location**: `United States`,
-- **Resume**: ![soon](soon.png)
+- **Resume**: Soon
 ---
-https://cdn.discordapp.com/emojis/736325448690040883.webp?size=96
