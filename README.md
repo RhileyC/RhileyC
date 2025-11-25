@@ -4,16 +4,16 @@
 **Learning Java Development || Minecraft Enthusiast, Robotics Lover, & Arch.MC**
 
 
-🎮: **Admin @ [ArchMC](https://discord.gg/archmc)**
+🎮: **Administrator @ [ArchMC](https://discord.gg/archmc)** - _`arch.mc`_
 
-🎮: **Manager @ [ShoreSMP](https://discord.gg/shoresmp)**
+🎮: **General Manager @ [ShoreSMP](https://discord.gg/shoresmp)** -  _`shoresmp.net`_
 
 ---
 
 ## 🧑🏻‍🦱- About Me!
 
 - **Discord**: `igndataclass`,
-- **Timezone**: `CST`,
+- **Time Zone**: `CST`,
 - **Age**: `15`,
 - **General Location**: `United States`,
 - **Resume**: `Soon.`,
