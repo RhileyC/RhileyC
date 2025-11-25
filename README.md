@@ -16,7 +16,8 @@
 - **Time Zone**: `CST`,
 - **Age**: `15`,
 - **General Location**: `United States`,
-- **Resume**: `Soon.`,
+- **Online Resume**: [View Resume](https://github.com/OGRhiley/OGRhiley/resume.png)
+- **Personal Resume**: `Contact Me.`,
 - **BIO Website**: [Click Me](https://e-z.bio/data),
 - **LinkedIn**: [Click Me](https://www.linkedin.com/in/rhiley/)
 ---
