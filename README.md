@@ -8,7 +8,6 @@
 
 🎮: **Manager @ [ShoreSMP](https://discord.gg/shoresmp)**
 
-
 ---
 
 ## 🧑🏻‍🦱- About Me!
@@ -19,5 +18,5 @@
 - **General Location**: `United States`,
 - **Resume**: `Soon.`,
 - **BIO Website**: [Click Me](https://e-z.bio/data),
-- **Linked In**: [Click Me](https://www.linkedin.com/in/rhiley/)
+- **LinkedIn**: [Click Me](https://www.linkedin.com/in/rhiley/)
 ---
