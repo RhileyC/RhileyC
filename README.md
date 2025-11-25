@@ -1,7 +1,7 @@
 ## Dataclass / Rhiley
 ---
 
-**_Learning Java Development || Minecraft Enthusiast, Robotics Lover, & ARCH.MC_**
+**_Learning Java Development & Cyber Security || Minecraft Enthusiast, Robotics Engineer, & ARCH.MC_**
 
 
 🎮: **Administrator @ [ArchMC](https://discord.gg/archmc)** - _`arch.mc`_
