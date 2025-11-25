@@ -18,5 +18,6 @@
 - **Age**: `15`,
 - **General Location**: `United States`,
 - **Resume**: `Soon.`.
-- **BIO Website**: [Click Me](https://e-z.bio/data)
+- **BIO Website**: [Click Me](https://e-z.bio/data),
+- **LinkedIN**: [Click Me](https://www.linkedin.com/in/rhiley/)
 ---
