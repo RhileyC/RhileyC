@@ -6,8 +6,6 @@
 
 🎮: **Administrator @ [ArchMC](https://discord.gg/archmc)** - _`arch.mc`_
 
-🎮: **General Manager @ [ShoreSMP](https://discord.gg/shoresmp)** -  _`shoresmp.net`_
-
 ---
 
 ## 🧑🏻‍🦱- About Me!
